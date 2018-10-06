@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Noren",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/alex_noren.png",
+    "click": false
+  },
+  {
+    "id": 2,
+    "name": "Francesco Molinari",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/francesco_molinari.png",
+    "click": false
+  },
+  {
+    "id": 3,
+    "name": "Henrik Stenson",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/henrik_stenson.png",
+    "click": false
+  },
+  {
+    "id": 4,
+    "name": "Ian Poulter",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/ian_poulter.png",
+    "click": false
+  },
+  {
+    "id": 5,
+    "name": "Jon Rahm",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/jon_rahm.png",
+    "click": false
+  },
+  {
+    "id": 6,
+    "name": "Justin Rose",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/justin_rose.png",
+    "click": false
+  },
+  {
+    "id": 7,
+    "name": "Paul Casey",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/paul_casey.png",
+    "click": false
+  },
+  {
+    "id": 8,
+    "name": "Rory Mcilroy",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/rory_mcilroy.png",
+    "click": false
+  },
+  {
+    "id": 9,
+    "name": "Sergio Garcia",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/sergio_garcia+2.png",
+    "click": false
+  },
+  {
+    "id": 10,
+    "name": "Thorbjorn Olesen",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/thorbjorn_olesen.png",
+    "click": false
+  },
+  {
+    "id": 11,
+    "name": "Tommy Fleetwood",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/tommy_fleetwood.png",
+    "click": false
+  },
+  {
+    "id": 12,
+    "name": "Tyrrell Hatton",
+    "image": "https://s3-us-west-2.amazonaws.com/benji.to/ryder-cup/tyrrell_hatton.png",
+    "click": false
+  }
+]
